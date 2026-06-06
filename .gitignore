@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+# Veri / model dosyaları (büyük dosyalar GitHub'a konmaz)
+*.parquet
+*.xlsx
+*.csv
+*.pkl
+*.joblib
+*.h5
+*.keras
+# Sırlar
+.env
+*.key
